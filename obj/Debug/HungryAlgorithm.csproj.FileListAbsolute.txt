@@ -1,0 +1,8 @@
+E:\Solutions\HungryAlgorithm\bin\Debug\HungryAlgorithm.exe.config
+E:\Solutions\HungryAlgorithm\bin\Debug\HungryAlgorithm.exe
+E:\Solutions\HungryAlgorithm\bin\Debug\HungryAlgorithm.pdb
+E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.Form1.resources
+E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.Properties.Resources.resources
+E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.csproj.GenerateResource.cache
+E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.exe
+E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.pdb
