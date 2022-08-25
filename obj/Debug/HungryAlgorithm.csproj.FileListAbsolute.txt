@@ -6,3 +6,13 @@ E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.Properties.Resources.reso
 E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.csproj.GenerateResource.cache
 E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.exe
 E:\Solutions\HungryAlgorithm\obj\Debug\HungryAlgorithm.pdb
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\bin\Debug\HungryAlgorithm.exe.config
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\bin\Debug\HungryAlgorithm.exe
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\bin\Debug\HungryAlgorithm.pdb
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\obj\Debug\HungryAlgorithm.csproj.AssemblyReference.cache
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\obj\Debug\HungryAlgorithm.Form1.resources
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\obj\Debug\HungryAlgorithm.Properties.Resources.resources
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\obj\Debug\HungryAlgorithm.csproj.GenerateResource.cache
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\obj\Debug\HungryAlgorithm.csproj.CoreCompileInputs.cache
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\obj\Debug\HungryAlgorithm.exe
+E:\Git Clear Projects\В работе\HungryAlgorythm\HungryAlgorithm-main\obj\Debug\HungryAlgorithm.pdb
